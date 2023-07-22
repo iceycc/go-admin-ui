@@ -194,7 +194,7 @@ export default {
       cookiePassword: '',
       refreshParticles: true,
       loginForm: {
-        username: 'admin',
+        username: 'visitor',
         password: '123456',
         rememberMe: false,
         code: '',
